@@ -4,9 +4,6 @@
 
 # Messenger Side Hide
 
-
-
-## Description
 Messenger Side Hide is a browser extension that allows you to toggle the visibility of the Inbox switcher and Thread list on Messenger.com, providing a cleaner and more focused messaging experience.
 
 ## Features
