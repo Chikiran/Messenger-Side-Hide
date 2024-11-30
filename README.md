@@ -22,4 +22,4 @@ Messenger Side Hide is a browser extension that allows you to toggle the visibil
 
 
 ### Other Browsers
-- Download the extension as a zip file manually and load it in your browser.
+- Download the extension as a zip file and load it in your browser.
