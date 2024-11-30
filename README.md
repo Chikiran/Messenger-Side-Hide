@@ -2,7 +2,7 @@
     <img src="icon128.png" alt="Messenger Logo" width="100">
 </p>
 
-# Messenger Side Hide
+<h1 align="center">Messenger Side Hide</h1>
 
 Messenger Side Hide is a browser extension that allows you to toggle the visibility of the Inbox switcher and Thread list on Messenger.com, providing a cleaner and more focused messaging experience.
 
@@ -14,11 +14,9 @@ Messenger Side Hide is a browser extension that allows you to toggle the visibil
 
 ## Installation
 ### Firefox
-- Click the button below to add the extension to your browser:
-  🦊[![Firefox addons](https://addons.mozilla.org/…/messenger-side-hide)]
+<p align="center">
+    🦊 [![Firefox Add-ons](https://addons.mozilla.org/.../messenger-side-hide)]  
+</p>
 
 ### Other Browsers
 - Download the extension as a zip file manually and load it in your browser.
-
-## Links
-- [Firefox Add-ons](https://addons.mozilla.org/…/messenger-side-hide)
