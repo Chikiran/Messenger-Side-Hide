@@ -15,10 +15,10 @@ Messenger Side Hide is a browser extension that allows you to toggle the visibil
 ## Installation
 ### Firefox
 - Click the button below to add the extension to your browser:
-  [![Add to Firefox](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Firefox_logo.svg/1200px-Firefox_logo.svg.png)](https://addons.mozilla.org/…/messenger-side-hide)
+  🦊[![Firefox addons](https://addons.mozilla.org/…/messenger-side-hide)
 
 ### Other Browsers
-- Download the extension manually and load it in your browser.
+- Download the extension as a zip file manually and load it in your browser.
 
 ## Links
 - [Firefox Add-ons](https://addons.mozilla.org/…/messenger-side-hide)
