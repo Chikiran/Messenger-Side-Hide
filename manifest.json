@@ -3,7 +3,7 @@
   "name": "Messenger Side Hide",
   "version": "1.2",
   "description": "Toggle the visibility of the Side Panels on Messenger.com. https://github.com/Chikiran/Messenger-Side-Hide",
-  "permissions": ["activeTab", "storage"],
+  "permissions": ["storage"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
