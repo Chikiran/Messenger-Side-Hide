@@ -24,8 +24,7 @@ A simple browser extension that lets you hide different parts of Messenger.com's
 
 ### Firefox
 <p align="left">
-    🦊 <a href="https://addons.mozilla.org/en-US/firefox/addon/messenger-side-hide/">
-    <img src="https://addons.mozilla.org/static/img/addons-buttons/firefox-addons.svg" alt="Firefox Add-ons">
+    🦊 <a href="https://addons.mozilla.org/en-US/firefox/addon/messenger-side-hide/"alt="Firefox Add-ons">
     </a>
 </p>
 
