@@ -15,16 +15,11 @@ A simple browser extension that lets you hide different parts of Messenger.com's
 - Settings are saved between browser sessions
 
 ## Installation
+
 ### Chrome
-<p align="left">
-    🌐 <a href="https://chromewebstore.google.com/detail/messenger-side-hide/degcpkimgdijmlfhhhbjpbjbenofcihb">
-    <img src="https://developer.chrome.com/docs/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png" alt="Chrome Web Store">
-    </a>
-</p>
+🌐 [Chrome Web Store](https://chromewebstore.google.com/detail/messenger-side-hide/degcpkimgdijmlfhhhbjpbjbenofcihb)
 
 ### Firefox
-<p align="left">
-    🦊 <a href="https://addons.mozilla.org/en-US/firefox/addon/messenger-side-hide/"alt="Firefox Add-ons">
-    </a>
-</p>
+🦊 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/messenger-side-hide/)
+
 
